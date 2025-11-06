@@ -1,0 +1,61 @@
+h1{text-align: center; 
+     font-size: 50px;
+    }
+h2{
+    text-align: left;
+    text-decoration: underline;
+    font-weight: normal;
+}
+    
+.nav{
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+    display: flex;
+    }
+.index{
+    display: flex;
+    width: 70%;
+}
+body {
+  background-color: rgb(142, 142, 255);
+}
+.form-group-container{
+    text-align: left;
+    justify-content: left;
+    display: grid;
+}
+.picture{
+    display:inline-flex;
+    justify-content: right;
+}
+.info{
+    background-color: red;
+    color: white;
+    justify-content: center;
+    display: flex;
+}
+.infotext{
+    display:flex;
+    justify-content: center;
+}
+#year{
+    font-weight: bold;
+    font-size: large;
+    text-decoration: underline;
+}
+.CV{
+    border: 3px solid black;
+    background-color: white;
+    display: flexbox;
+}
+.years{
+    font-weight: bold;
+}
+.images{
+    display: grid;
+}
+.images>p{
+    font-weight: bold;
+    display: flex;
+    width: 60%;
+}
